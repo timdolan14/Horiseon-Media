@@ -1,7 +1,7 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Depolyed URL
-https://timdolan14.github.io/Challenge1/
+https://timdolan14.github.io/Horiseon-Media/
 
 ## Screenshot
 
