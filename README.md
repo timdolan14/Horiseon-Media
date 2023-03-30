@@ -3,6 +3,10 @@
 ## Depolyed URL
 https://timdolan14.github.io/Challenge1/
 
+## Screenshot
+
+![Screenshot 2023-03-30 at 7 01 28 PM](https://user-images.githubusercontent.com/128433023/228983456-68ae34bb-22d6-49c0-ad6d-168c92863fe2.png)
+
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
